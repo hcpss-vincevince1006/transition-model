@@ -1,0 +1,8 @@
+# Site settings
+
+# the subpath of your site, e.g. /blog/
+baseurl: "/transition-model/" 
+
+# Build settings
+markdown: kramdown
+exclude: [Guardfile]
