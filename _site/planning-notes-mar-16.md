@@ -1,0 +1,4 @@
+- list of acronyms
+- what happens if I get an IEP starting in Middle School
+- Naviance for parents, understanding that it's all about transition
+- SSI, medical assistance, state-level links!
